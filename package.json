@@ -1,0 +1,23 @@
+{
+  "name": "noinstructor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "angular": "^1.5.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agudipelli/noinstructor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agudipelli/noinstructor/issues"
+  },
+  "homepage": "https://github.com/agudipelli/noinstructor#readme"
+}
