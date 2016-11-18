@@ -1,0 +1,6 @@
+.env
+node_modules
+.idea
+.vagrant
+vagrant-scripts
+Vagrantfile
